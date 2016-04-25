@@ -1,0 +1,64 @@
+
+.stories img {
+    width: 48%;
+    float: left;
+    margin: 3px;
+}
+
+.story_pictures {
+    width: 100%;
+}
+
+
+footer {
+    font-size: 11px;
+    text-align: center;
+    position: fixed;
+    background-color: #408dd2;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    clear: right;
+}
+
+    footer a {
+        text-decoration: none;
+    }
+
+    footer img {
+        width: 60px;
+        padding-bottom: 4px;
+        padding-top: 4px;
+    }
+
+
+        .navi {
+            float: left;
+            width: 40%;
+            background-color: #408dd2;
+            color: white;
+        }
+
+        .navi2{
+            float: left;
+            width: 20%;
+            background-color: #408dd2;
+        }
+
+        .navi2 img {
+            text-align: center;
+            width: 30px;
+        }
+
+        .aktuell {
+            float: left;
+            width: 40%;
+            background-color: #346ea3;
+            color: white;
+        }
+
+        .bezeichnung {
+            margin-top: 12px;
+            text-align: center;
+            color: white;
+        }

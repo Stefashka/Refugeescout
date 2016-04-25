@@ -1,0 +1,62 @@
+{
+    "storypart1": {
+        "bild": "story1.jpg",
+        "bildtext": "",
+        "position": "",
+        "typ": ""
+    },
+    "storypart2": {
+        "bild": "story2.jpg",
+        "bildtext": "",
+        "position": "",
+        "typ": ""
+    },    
+    "storypart3": {
+        "bild": "story3.jpg",
+        "bildtext": "",
+        "position": "",
+        "typ": ""      
+    },
+    "storypart4": {
+        "bild": "story4.jpg",
+        "bildtext": "",
+        "position": "",
+        "typ": ""
+    },
+    "storypart5": {
+        "bild": "story5.jpg",
+        "bildtext": "The meal is ready. Maria wants to drink a glass of water before she starts eating.",
+        "position": "bottom",
+        "typ": "textbox"
+    }, 
+    "storypart6": {
+        "bild": "story6.jpg",
+        "bildtext": "Tap water is very clean in Germany so you can drink it without doubt.",
+        "position": "bottom",
+        "typ": "textbox"
+    },
+    "storypart7": {
+        "bild": "story7.jpg",
+        "bildtext": "Drinking alcohol is legal at the age of 18, but it's totally accepted to refuse it.",
+        "position": "top",
+        "typ": "textbox"
+    }, 
+    "storypart8": {
+        "bild": "story8.jpg",
+        "bildtext": "Now it's time for cleaning up the kitchen and disposing the rubbish.",
+        "position": "bottom",
+        "typ": "thinkbox"
+    },
+    "storypart9": {
+        "bild": "desk.jpg",
+        "bildtext": "Hier kommt Drag n Drop",
+        "position": "bottom",
+        "typ": ""
+    }, 
+    "storypart10": {
+        "bild": "story10.jpg",
+        "bildtext": "Most of the bottles are returnable bottles, so they can be used once again. Empty glasses should be thrown into glass recycling containers.",
+        "position": "bottom",
+        "typ": "textbox"
+    }
+}
